@@ -1,0 +1,4 @@
+- Dùng API của Google Review lấy data phản hồi khách hàng
+- Dùng Python làm sạch dữ liệu tiền xử lý sau đó phân tích Tỉ lệ khách hàng quay lại
+- Dùng các thuật toán học máy để so sánh độ hiệu quả
+- <img width="558" height="389" alt="image" src="https://github.com/user-attachments/assets/26e076d4-06e0-4aae-a26e-286335ffa494" />
